@@ -1,7 +1,4 @@
-<!--
-  🚀 Profile README for Azhar “niazi90” Iqbal
-  Feel free to adjust icons, links, sections, etc.
--->
+<!-- GitHub Profile README for niazi90 -->
 
 <h1 align="center">Hi 👋, I'm Azhar Iqbal (niazi90)</h1>
 
@@ -10,7 +7,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/niazi90?style=social" />
   </a>
   <a href="https://github.com/niazi90?tab=repositories">
-    
+    <img alt="Repositories" src="https://img.shields.io/github/repo-size/niazi90/Login-page?style=flat" />
   </a>
   <a href="https://github.com/niazi90?tab=stars">
     <img alt="Stars" src="https://img.shields.io/github/stars/niazi90?style=social" />
@@ -21,66 +18,73 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently learning **Flutter** and **Full Stack Web Development**  
-- 🌱 I’m expanding my knowledge in **Dart**, **JavaScript/TypeScript**, and **Web APIs**  
-- 👯 I’m open to collaborating on beginner-to-intermediate web & mobile projects  
-- 💬 Ask me about **frontend**, **backend**, **mobile app dev**, or **project architecture**  
-- 📫 How to reach me: via GitHub issues, or connect on LinkedIn / email (see links below)  
-- ⚡ Fun fact: I love exploring UI/UX patterns and often experiment with new design concepts  
+- 🔭 I’m currently learning **Flutter** and **Full Stack Web Development**
+- 🌱 Improving my skills in **Dart**, **JavaScript**, and **APIs**
+- 🛠️ Building hands-on projects to strengthen both frontend and backend knowledge
+- 👯 Open to collaborations on mobile apps and beginner-friendly web projects
+- 📫 Reach me via GitHub or connect through LinkedIn (coming soon)
+- 🧩 I enjoy solving real-world problems with simple, clean code
 
 ---
 
-## 🧰 Skills & Technologies
+## 🛠️ Tech Stack
 
-| Domain | Technologies & Tools |
-|---|---|
-| **Frontend / UI** | HTML, CSS, JavaScript, React (or any library you use) |
-| **Backend / APIs** | Node.js, Express, REST, (or whichever you prefer) |
-| **Mobile / Cross‑platform** | Flutter, Dart |
-| **Databases / Storage** | Firebase, SQL, NoSQL |
-| **Version Control / Dev Tools** | Git, GitHub, VSCode |
-| **Languages** | Dart, JavaScript, (others you know) |
-
----
-
-## 🏗️ Recently Worked On / Featured Projects
-
-> 💡 *These are some of my highlighted works. More are in my repositories.*
-
-| Project | Description | Technologies | Link |
-|---|---|---|---|
-| **Login‑page** | A clean, responsive login & signup UI implementation | HTML, CSS, JavaScript | [repo link](https://github.com/niazi90/Login-page) |
-| **Facebook‑loging‑page** | Clone / replica of Facebook’s login interface | HTML, CSS | [repo link](https://github.com/niazi90/Facebook-loging-page) |
-| **List‑method‑in‑Dart** | Examples & explanations of Dart list methods | Dart | [repo link](https://github.com/niazi90/List-method-in-dart) |
-| **Map‑in‑Dart** | Showcase & usage of maps in Dart | Dart | [repo link](https://github.com/niazi90/Map-in-dart) |
-
-> ⚠️ (You can add screenshots, GIFs, or live demo links as you prefer.)
+| Area | Tools & Languages |
+|------|-------------------|
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Backend** | (Learning) Node.js, Express.js |
+| **Mobile Development** | Flutter, Dart |
+| **Database** | Firebase (learning), MongoDB (learning) |
+| **Other Tools** | Git, GitHub, VS Code |
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Featured Projects
+
+Here are some of the public projects I'm currently working on or have completed:
+
+| Project | Description | Tech Used | Repo Link |
+|--------|-------------|-----------|-----------|
+| **Login-page** | A clean and responsive login and registration UI | HTML, CSS | [View Repo](https://github.com/niazi90/Login-page) |
+| **Facebook-loging-page** | A UI clone of Facebook's login screen | HTML, CSS | [View Repo](https://github.com/niazi90/Facebook-loging-page) |
+| **List-method-in-dart** | Examples of using List methods in Dart | Dart | [View Repo](https://github.com/niazi90/List-method-in-dart) |
+| **Map-in-dart** | Dart map data structure usage examples | Dart | [View Repo](https://github.com/niazi90/Map-in-dart) |
+
+> 🚀 More projects coming soon — stay tuned!
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niazi90&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niazi90&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niazi90&show_icons=true&theme=tokyonight" alt="niazi90 GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niazi90&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Get in Touch
+## 📬 Contact Me
 
-- LinkedIn: [Your LinkedIn profile link]
-- Email: [niazi7589@gmail.com]  
-
-
----
-
-## 🥂 Let’s Build Together
-
-If you like what I’m doing and feel we could collaborate or learn from each other, drop a ⭐ on a repo, open an issue, or reach out.  
-I believe in small steps, consistent growth, and the power of community. Let’s push boundaries together! 🚀  
+- 📧 Email: *(Add your email here if you want to be contacted)*
+- 🌐 Portfolio/LinkedIn: *(Add links here if you have one)*
 
 ---
 
-*“The expert in anything was once a beginner.”*  
-— Unknown  
+## 💡 Goals
+
+- 🎯 Build at least 10 meaningful projects using Flutter and web technologies
+- 📚 Keep learning best practices and modern frameworks
+- 🤝 Contribute to open-source projects in 2025
+- 💼 Land a full-time role or internship in mobile/web development
+
+---
+
+## 🧠 Quote I Live By
+
+> *"The expert in anything was once a beginner."* — Helen Hayes
+
+---
+
+Thanks for visiting my profile! If you find my work interesting, feel free to ⭐ a repository or connect.
+
