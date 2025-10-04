@@ -43,12 +43,39 @@
 
 Here are some of the public projects I'm currently working on or have completed:
 
-| Project | Description | Tech Used | Repo Link |
-|--------|-------------|-----------|-----------|
-| **Login-page** | A clean and responsive login and registration UI | HTML, CSS | [View Repo](https://github.com/niazi90/Login-page) |
-| **Facebook-loging-page** | A UI clone of Facebook's login screen | HTML, CSS | [View Repo](https://github.com/niazi90/Facebook-loging-page) |
-| **List-method-in-dart** | Examples of using List methods in Dart | Dart | [View Repo](https://github.com/niazi90/List-method-in-dart) |
-| **Map-in-dart** | Dart map data structure usage examples | Dart | [View Repo](https://github.com/niazi90/Map-in-dart) |
+### 📌 Login-page
+A clean and responsive login and registration UI built with HTML and CSS.
+
+[🔗 View Repo](https://github.com/niazi90/Login-page)
+
+![Login Page Preview](https://raw.githubusercontent.com/niazi90/Login-page/main/assets/login-preview.png)
+
+---
+
+### 📌 Facebook-loging-page
+A UI clone of Facebook’s login screen.
+
+[🔗 View Repo](https://github.com/niazi90/Facebook-loging-page)
+
+![Facebook Clone Preview](https://raw.githubusercontent.com/niazi90/Facebook-loging-page/main/assets/facebook-preview.png)
+
+---
+
+### 📌 List-method-in-dart
+Examples of using list methods in Dart with code comments and usage.
+
+[🔗 View Repo](https://github.com/niazi90/List-method-in-dart)
+
+![List Method Preview](https://raw.githubusercontent.com/niazi90/List-method-in-dart/main/assets/list-preview.png)
+
+---
+
+### 📌 Map-in-dart
+Dart map examples demonstrating how to use key/value data structures.
+
+[🔗 View Repo](https://github.com/niazi90/Map-in-dart)
+
+![Map Preview](https://raw.githubusercontent.com/niazi90/Map-in-dart/main/assets/map-preview.png)
 
 > 🚀 More projects coming soon — stay tuned!
 
@@ -87,4 +114,3 @@ Here are some of the public projects I'm currently working on or have completed:
 ---
 
 Thanks for visiting my profile! If you find my work interesting, feel free to ⭐ a repository or connect.
-
