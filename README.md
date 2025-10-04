@@ -10,7 +10,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/niazi90?style=social" />
   </a>
   <a href="https://github.com/niazi90?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/github/repo-size/niazi90?style=flat" />
+    <!-- <img alt="Repositories" src="https://img.shields.io/github/repo-size/niazi90?style=flat" /> -->
   </a>
   <a href="https://github.com/niazi90?tab=stars">
     <img alt="Stars" src="https://img.shields.io/github/stars/niazi90?style=social" />
