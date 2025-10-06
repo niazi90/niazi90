@@ -69,7 +69,7 @@
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn profile link]
+- LinkedIn: [www.linkedin.com/in/azhar-iqbal-64419a230]
 - Email: [niazi7589@gmail.com]  
 
 
@@ -83,4 +83,4 @@ I believe in small steps, consistent growth, and the power of community. Let’s
 ---
 
 *“The expert in anything was once a beginner.”*  
-— Unknown  
+ 
